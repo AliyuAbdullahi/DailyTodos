@@ -8,7 +8,7 @@ import androidx.test.espresso.matcher.ViewMatchers.isDisplayed
 import androidx.test.espresso.matcher.ViewMatchers.withId
 import androidx.test.rule.ActivityTestRule
 import androidx.test.runner.AndroidJUnit4
-import com.taxi.taxibuz.utils.EspressoIdlingResource
+import com.tutorial.domain.testutils.EspressoIdlingResource
 import com.tutorial.presentation.MainActivity
 import org.hamcrest.Matchers.not
 import org.junit.After

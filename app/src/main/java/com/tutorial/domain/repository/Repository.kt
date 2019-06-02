@@ -1,6 +1,6 @@
 package com.tutorial.domain.repository
 
-import com.taxi.taxibuz.utils.EspressoIdlingResource
+import com.tutorial.domain.testutils.EspressoIdlingResource
 import com.tutorial.domain.models.TaskTodo
 import io.reactivex.disposables.Disposable
 import io.reactivex.schedulers.Schedulers
