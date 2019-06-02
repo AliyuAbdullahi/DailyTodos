@@ -1,4 +1,4 @@
-package com.taxi.taxibuz.utils
+package com.tutorial.domain.testutils
 
 import androidx.test.espresso.IdlingResource
 

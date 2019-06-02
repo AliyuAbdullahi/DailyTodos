@@ -1,4 +1,4 @@
-package com.taxi.taxibuz.utils
+package com.tutorial.domain.testutils
 
 import android.annotation.SuppressLint
 import androidx.test.espresso.IdlingResource
