@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
         //TODO implement adding to the list
         add.setOnClickListener {
-
+            Toast.makeText(this, "It's in todo", Toast.LENGTH_SHORT).show()
         }
     }
 
